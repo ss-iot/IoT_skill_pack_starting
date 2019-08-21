@@ -7,6 +7,6 @@
   "license": "",
   "language":"python3",
   "scripts": {
-      "start": "python3 IoT_Test.py"
+      "start": "python3 IoT.py"
     }
 }
